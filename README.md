@@ -1,6 +1,3 @@
-
- |>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<|
-  
 - 👋 Hi, I’m @jonalakes
 - 👀 I’m interested in data science and web development. 
 - 🌱 I’m currently learning html, css and Javascript in order to get a junior developer job. 
@@ -12,9 +9,3 @@ jonalakes/jonalakes is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-   ██╗ ██████╗ ███╗   ██╗ █████╗ ██╗      █████╗ ██╗  ██╗███████╗███████╗
-     ██║██╔═══██╗████╗  ██║██╔══██╗██║     ██╔══██╗██║ ██╔╝██╔════╝██╔════╝
-     ██║██║   ██║██╔██╗ ██║███████║██║     ███████║█████╔╝ █████╗  ███████╗
-██   ██║██║   ██║██║╚██╗██║██╔══██║██║     ██╔══██║██╔═██╗ ██╔══╝  ╚════██║
-╚█████╔╝╚██████╔╝██║ ╚████║██║  ██║███████╗██║  ██║██║  ██╗███████╗███████║
- ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
